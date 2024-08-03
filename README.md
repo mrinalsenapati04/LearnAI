@@ -1,28 +1,12 @@
-## title {.tabset .tabset-fade}
-content above tabbed region.
+<h1 align="center">Hi 👋, I'm ABC</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-### tab Social-Media
+- 🔭 I’m currently working on **ABC**
 
-tab content Social-Media
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### tab Contact
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-tab content  Contact
-
-### tab Revisions
-
-tab content  Revisions
-
-### tab Articles
-
-tab content  Articles
-
-### tab Skills
-
-tab content  Skills
-
-### tab Insights
-
-tab content  Insights
-
-content below tabbed region
